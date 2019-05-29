@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^(.+)?$ advanced/frontend/web/$1
+#RewriteRule ^(.+)?$ advanced/backend/web/$1
+
